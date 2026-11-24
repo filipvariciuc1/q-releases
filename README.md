@@ -1,2 +1,2 @@
-# own-easyworship-releases
-Installers for Own EasyWorship (the app's auto-update feed). No source code here.
+# q-releases
+Installers for Q (the app's auto-update feed). No source code here.
